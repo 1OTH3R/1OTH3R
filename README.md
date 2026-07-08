@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there! 👋
+
+I'm 1OTH3R, a younger solo developer who got into my love of coding based on the idea that I could build something with an impact on the world. Currently, I build projects using web-based design, and am working on my passion project, an [UNDERTALE and DELTARUNE mod manager](https://github.com/1OTH3R/utdr-mod-manager). Looking ahead, I want to keep developing my programming skills to make a mark in the world, one step at a time.<br>
+
+> 🎓 I am currently learning NodeJS and application development via [NW.js](http://nwjs.io/), a very simple application creator.<br>
+> 💡 I’m always open to learn about cool CSS, JS, or HTML tricks!<br>
+> ⌨️ I think that mouse and keyboard gaming is way better than gaming with controllers (with some exceptions).<br>
+> 🖥️ I use a custom desktop PC I bought and built myself, as well as an ancient Alienware laptop and less ancient Dell laptop (the irony, am I right?).
 
 <!--
 **1OTH3R/1OTH3R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
