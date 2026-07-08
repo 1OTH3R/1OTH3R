@@ -1,0 +1,98 @@
+So, just to get this out of the way, I have two main categories for projects:
+These are passion projects and normal projects.
+
+Now, these sound similar, and a slip of the tongue might happen here or there,
+but there is a definite difference between the two!
+
+Passion projects are projects I pour my love into. I do my best to make their
+development good and generally usable, as they are designed for not just me,
+but also the public! I strive to keep them in functional working order, and I
+do my best to ensure their functionality. Their AI use is limited, as I care
+about my projects having originated mainly from me. Because of this, I will
+only be using AI on them for debugging, research, or minor instances as I see
+fit. If the passion project you are looking at does not have a license
+specified, then assume MIT (shown below).
+
+TL;DR:
+✅ I care for these a lot
+✅ I design these with the public in mind
+✅ I update these and patch bugs;
+✅ I build almost everything myself without AI
+✅ I strive to learn from these
+✅ CONSTRUCTIVE criticism is highly recommended, please and thank you
+🪧 Refer to the MIT licese below for the legal stuff
+
+
+Now, on the other side of things...
+
+Normal projects are little things I don't really care about too much. They're
+not designed to be user-friendly or able to be run on all systems, just user-
+friendly enough for me to find some use in them. While they may be fun, I
+won't be updating them. Feel free to make forks of it or use it elsewhere at
+any time, I won't stop you, and you don't need to ask for permission; it's all
+public domain. However, because I only care about the output rather than the
+process of growth, I will be using AI. All normal projects are public domain;
+refer to Unlicensed (shown below)
+
+TL;DR:
+❌ I don't care for these too much
+❌ I design these with nobody in particular in mind
+❌ I won't be updating or patching these;
+❌ The majority of the code is probably bad and also probably AI
+❌ I don't really learn from these, I just want the output they give
+❌ Don't hate on me for using AI here, I really don't care about these, sorry
+🪧 Refer to the unlicensed licese below for the legal stuff
+
+
+Thank you for being the one of five people
+And here are the licenses...
+
+MIT License
+
+Copyright (c) 2026 1OTH3R
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+Unlicensed license
+
+This is free and unencumbered software released into the public domain.
+
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute this software, either in source code form or as a compiled
+binary, for any purpose, commercial or non-commercial, and by any
+means.
+
+In jurisdictions that recognize copyright laws, the author or authors
+of this software dedicate any and all copyright interest in the
+software to the public domain. We make this dedication for the benefit
+of the public at large and to the detriment of our heirs and
+successors. We intend this dedication to be an overt act of
+relinquishment in perpetuity of all present and future rights to this
+software under copyright law.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+For more information, please refer to https://unlicense.org
