@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm 1OTH3R, a younger solo developer who got into my love of coding based on the idea that I could build something with an impact on the world. Currently, I build projects using web-based design, and am working on my passion project, an [UNDERTALE and DELTARUNE mod manager](https://github.com/1OTH3R/utdr-mod-manager). Looking ahead, I want to keep developing my programming skills to make a mark in the world, one step at a time.<br>
+I'm 1OTH3R, a younger solo developer who got into my love of coding based on the idea that I could build something with an impact on the world. Currently, I build projects using web-based design, and am working on my passion project, an [UNDERTALE and DELTARUNE mod manager](https://github.com/1OTH3R/utdr-mod-manager). Looking ahead, I want to keep developing my programming skills, one step at a time.<br>
 
 > 🎓 I am currently learning NodeJS and application development via [NW.js](http://nwjs.io/), a very simple application creator.<br>
 > 💡 I’m always open to learn about cool CSS, JS, or HTML tricks!<br>
